@@ -1,0 +1,1 @@
+For managing docker, kubernetes, docker-swarm etc.
